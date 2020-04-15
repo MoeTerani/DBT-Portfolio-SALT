@@ -23,7 +23,7 @@ And you can [watch our whole presentation video](https://youtu.be/qLVFzotzUBk) f
 
 ## 👨🏻‍💻 Tech stack
 
-- React (Functional components, Hooks, useReducer, )
+- React (Functional components, Hooks)
 - Chartjs
 - Nodejs
 - Express
